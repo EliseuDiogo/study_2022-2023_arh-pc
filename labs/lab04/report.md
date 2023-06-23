@@ -1,8 +1,8 @@
 ---
 ## Front matter
 title: "Отчет по лабораторной работе № 4"
-subtitle: "НММбд-03-22"
-author: "Толстых Максим Алексеевич"
+subtitle: "Нкнбд-05-2023"
+author: "Диого Элизеу Луиж Музумбо"
 
 ## Generic otions
 lang: ru-RU
